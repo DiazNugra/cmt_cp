@@ -1,0 +1,34 @@
+@media screen and (max-width : 922px)
+{
+
+}
+
+@media screen and (max-width : 576px)
+{
+    .hero-tagline h1
+    {
+        line-height: 52px;
+    }
+
+    .img-hero
+    {
+        width: 75%;
+        height: auto;
+    }
+
+    .h2
+    {
+        font-size: 16px;
+    }
+
+    .card-produk
+    {
+        margin : 15px 0;
+    }
+
+}
+
+@media screen and (max-width : 350px)
+{
+    
+}
