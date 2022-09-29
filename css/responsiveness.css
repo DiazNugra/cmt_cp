@@ -1,6 +1,9 @@
 @media screen and (max-width : 922px)
 {
-
+    .img-hero
+    {
+        transition: all ease-in-out 0.3s;
+    }
 }
 
 @media screen and (max-width : 576px)
@@ -14,6 +17,8 @@
     {
         width: 75%;
         height: auto;
+        opacity: 70%;
+        transition: all ease-in-out 0.3s;
     }
 
     .h2
