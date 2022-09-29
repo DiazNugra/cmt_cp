@@ -126,7 +126,7 @@ h2
 .sub-title
 {
     font-size: 27px;
-    font-weight: 200;
+    font-weight: 500;
     line-height: 41px;
     letter-spacing: 0em;
     color: black;
@@ -217,6 +217,7 @@ h2
     font-weight: 700;
     line-height: 87px;
     letter-spacing: 0em;
+    color: var(--pr-color);
 }
 
 #layanan h6
@@ -233,14 +234,11 @@ h2
     color: white;
 }
 
-#layanan .container-fluid
-{
-    margin-top: 50px;
-}
 
 .img-layanan
 {
     margin-top: 10px;
+    border-radius: 15px;
 }
 
 /* accordion layanan */

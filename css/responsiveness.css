@@ -28,7 +28,7 @@
 
     .card-produk
     {
-        margin : 15px 0;
+        margin : 5px 0;
     }
 
     #layanan
@@ -58,6 +58,12 @@
         margin-top: 20px;
         line-height: 30px;
         width: 90%;
+    }
+
+    .nav-item a
+    {
+        color: #fff;
+        font-weight: 700;
     }
 
 }
