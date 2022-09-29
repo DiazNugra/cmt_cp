@@ -219,6 +219,11 @@ h2
     letter-spacing: 0em;
 }
 
+#layanan h6
+{
+    font-weight: 700;
+}
+
 #layanan p
 {
     font-size: 27px;

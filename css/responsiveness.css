@@ -17,7 +17,7 @@
     {
         width: 75%;
         height: auto;
-        opacity: 70%;
+        opacity: 55%;
         transition: all ease-in-out 0.3s;
     }
 
@@ -34,6 +34,30 @@
     #layanan
     {
         height: 150vh;
+    }
+
+    .navbar
+    {
+        background-color: #445EBA;
+    }
+
+    .hero-tagline h1
+    {
+        color: #fff;
+        font-size: 62px;
+        font-weight: 700;
+        line-height: 62px;
+        width: 80%;
+    }
+
+    .hero-tagline p
+    {
+        color: #fff;
+        font-size: 18px;
+        margin-bottom: 40px;
+        margin-top: 20px;
+        line-height: 30px;
+        width: 90%;
     }
 
 }
